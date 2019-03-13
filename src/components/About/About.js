@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'react-router-dom';
-import { Switch } from 'react-router-dom';
+import { Link, Route, Switch } from 'react-router-dom';
 import History from '../History/History';
 import Contact from '../Contact/Contact';
 
